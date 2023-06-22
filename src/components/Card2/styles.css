@@ -1,0 +1,17 @@
+.bg-get-in-touch {
+    background-color: #252B42;
+}
+
+.icon-color2 {
+    color: #295C7A;
+}
+
+.card {
+    background-color: #f1f1f1;
+    transition: background-color 0.3s;
+  }
+
+  .card:hover {
+    background-color:#a9a9a9;
+    transform: scale(1.1);
+  }

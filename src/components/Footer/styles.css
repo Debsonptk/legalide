@@ -1,0 +1,17 @@
+.bg-footer {
+    background-color: #252B42;
+}
+
+.text-footer {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+
+.icons-footer {
+    width: 24px;
+    height: 24px;
+}

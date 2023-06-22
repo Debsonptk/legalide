@@ -1,0 +1,8 @@
+.bg-praticesarea {
+    background-color: #252B42;
+}
+
+.custom-image {
+    height: 240px; /* Defina a altura desejada para as imagens */
+    object-fit: cover; /* Para preencher o espaço mantendo a proporção */
+}

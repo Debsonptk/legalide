@@ -1,0 +1,13 @@
+.bg-subscribe {
+    background-color: #252B42;
+}
+
+.card-subscribe{
+    background: linear-gradient(270deg, #295C7A -1.04%, #0072B5 100%);
+    border-radius: 2px;
+}
+
+.btn-subscribe {
+    background: #D0A144;
+}
+

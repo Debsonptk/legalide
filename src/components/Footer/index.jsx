@@ -9,7 +9,7 @@ const Footer = () => (
     <>
         <UpFooter />
         <section className='bg-footer  '>
-            <div className='container d-flex justify-content-between'>
+            <div className='d-flex justify-content-between container'>
                 <div className='row p-3'>
                     <div className='col text-light text-footer'>Made With Love By Figmaland All Right Reserved </div>
                 </div>

@@ -5,8 +5,10 @@ import { BannerContainer } from "./styles";
 
 const Header = () => (
     <BannerContainer className='background-image'>
-        < Menu />
-        <MainHeader />
+        <div className='container'>
+            <Menu />
+            <MainHeader />
+        </div>
     </BannerContainer>
 );
 

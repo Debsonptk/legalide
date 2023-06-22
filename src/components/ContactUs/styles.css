@@ -1,33 +1,29 @@
 .bg-contact {
     background-color: #252B42;
-    }
+}
 
-    .text-contact {
-        width: 347px;
-        height: 32px;
-        font-family: 'Martel';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 24px;
-        line-height: 32px;
-        letter-spacing: 0.1px;
-    }
+.text-contact {
+    font-family: 'Martel';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+}
 
-    .par-contact {
-        width: 250px;
-        height: 20px;
-        font-family: 'Open Sans';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 20px;
-        letter-spacing: 0.2px;
-    }
+.par-contact {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+}
 
-    .btn-contact {
-        gap: 10px;
-        width: 158px;
-        height: 58px;
-        background: #784F33;
-        border-radius: 5px;
-    }
+.btn-contact {
+    gap: 10px;
+    width: 158px;
+    height: 58px;
+    background: #784F33;
+    border-radius: 5px;
+}

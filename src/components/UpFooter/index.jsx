@@ -4,8 +4,8 @@ import { FiMapPin } from "react-icons/fi";
 import { HiOutlinePaperAirplane } from "react-icons/hi";
 
 const UpFooter = () => (
-    <section className = 'bg-upfooter'>
-        <div className='container'>
+    <section className='bg-upfooter'>
+        <div className="container">
             <div className='row row-cols-1 row-cols-md-2 row-cols-lg-5  justify-content-around'>
                 <div className='col text-light p-5'>
                     <h5 className='text-upfooter pb-3'>Company Info</h5>

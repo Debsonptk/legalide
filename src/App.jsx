@@ -7,10 +7,12 @@ import ContactUs from "./components/ContactUs";
 const App = () =>
   <>
     <Header />
-    <Main />
-    <ContactUs />
+    <div className="container">
+      <Main />
+      <ContactUs />
+    </div>;
     <Footer />
-  </>;
+  </>
 
 
 

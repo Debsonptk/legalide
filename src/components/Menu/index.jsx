@@ -1,10 +1,12 @@
 import {FaBars} from "react-icons/fa";
+import MenuBar from "../MenuBar";
 
 const Menu = () => (
     <section className = 'bg-header' >
         <div className = 'd-flex justify-content-between'>
-            <div className = 'text-light fs-3 pt-5'>
+            <div className = 'text-light fs-3 pt-5 d-flex'>
                 <div className="navbar-brand" href="index.js">Legalide</div>
+                <MenuBar />
             </div>
             <nav className="navbar navbar-expand-lg navbar-light pt-5">
                 <div className="collapse navbar-collapse">

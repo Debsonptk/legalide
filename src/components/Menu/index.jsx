@@ -1,14 +1,14 @@
 import {FaBars} from "react-icons/fa";
-import MenuBar from "../MenuBar";
+import IsMenuMobile from "../MenuMobile";
 
 const Menu = () => (
-    <section className = 'bg-header' >
-        <div className = 'd-flex justify-content-between'>
+    <section className='bg-header' >
+        <div className = 'd-flex justify-content-between align-items-end'>
             <div className = 'text-light fs-3 pt-5 d-flex'>
                 <div className="navbar-brand" href="index.js">Legalide</div>
-                <MenuBar />
             </div>
-            <nav className="navbar navbar-expand-lg navbar-light pt-5">
+            <IsMenuMobile />
+            <nav className="navbar navbar-expand-lg navbar-light pt-5 d-none d-lg-block">
                 <div className="collapse navbar-collapse">
                     <ul className="navbar-nav">
                         <li className="nav-item">

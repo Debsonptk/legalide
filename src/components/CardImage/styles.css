@@ -3,6 +3,6 @@
 }
 
 .custom-image {
-    height: 240px; /* Defina a altura desejada para as imagens */
-    object-fit: cover; /* Para preencher o espaço mantendo a proporção */
+    height: 240px;
+    object-fit: cover;
 }
